@@ -4,7 +4,7 @@ This is the source code I created way back in 1999 to build a basic Kohonen Neur
 
 The code is provided as is and available under the MIT license, but do please respect copyright. If you wish to use it please do - however remember to keep credit where credit is due.
 
-To [http://www.samhill.uk/kohonen]("read more about this") code and the **Virtual Bodies Project** itself please visit my website at **www.samhill.uk**
+You can read more about this code here [www.samhill.uk/kohonen] and the **Virtual Bodies Project** itself, plus please visit my website at **www.samhill.uk**
 
 ## A bit of history on the orginis of this code
 Back in 1999 (as a young Software Developer) I wrote one of the very first online demonstrations of API driven server based Kohonen Neural Networks that were used to process natural language speech input from users and determine what they wanted to do and then trigger various ongoing activities. Basically a client application called into a data centre hosted server via an API and requested the best response to give.
